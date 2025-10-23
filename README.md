@@ -1,1 +1,0 @@
-# Lista-fun-es-python
